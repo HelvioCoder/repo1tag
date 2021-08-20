@@ -1,0 +1,32 @@
+
+body{
+  background-image: url(fondoweb.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+}
+
+
+h1 {
+  font-size: 24;
+  background-color:brown ;
+  border: solid 2px black;
+  text-align: center;
+}
+p2 {
+  font-size: 50;
+  color: blue;
+}
+.columna {
+  display: flex;
+  }
+.one{
+float: right;
+background-color: darkkhaki;
+top: 20px;
+position: relative;
+}
+.two{
+float: left;
+background-color: darkgoldenrod;
+}
